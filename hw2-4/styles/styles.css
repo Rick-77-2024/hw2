@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+    top: 50%;
+}
+
+p {
+    text-align: left;
+    font-size: 14px;
+    justify-content: flex-start;
+}
+
+.wrapper {
+    margin: 30px 30px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 230px;
+    height: 200px;
+    background-color: #efe89f;
+    position: relative
+}
+
+.text {
+    margin: 15px;
+}
