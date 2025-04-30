@@ -1,0 +1,22 @@
+
+.container {
+    height: 500px;
+    background-color: #f4e6ba;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.round {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+
+.round:hover {
+    border-radius: 50%;
+    background-color: green;
+    transition: 3s;
+
+}
