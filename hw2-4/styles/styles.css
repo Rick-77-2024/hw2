@@ -21,13 +21,28 @@ p {
 .card {
     width: 200px;
     height: 200px;
-    background-color: #efe89f;
+    background-color: #efdabd;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.text {
-    display: flex;
+.rubik-pixels {
+    font-family: "Rubik Pixels", sans-serif;
 }
 
+.sedgwick-ave-display {
+    font-family: "Sedgwick Ave Display", sans-serif;
+}
+
+.dancing-script {
+    font-family: "Dancing Script", sans-serif;
+}
+
+.fjalla-one {
+    font-family: "Fjalla One", sans-serif;
+}
+
+.indie-flower {
+    font-family: "Indie Flower", sans-serif;
+}
